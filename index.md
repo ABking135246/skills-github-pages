@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog!
-Nice to meet you guys
+title: Nice to meet you guys
 ---
 
